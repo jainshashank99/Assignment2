@@ -38,7 +38,7 @@ import prefuse.data.io.TableReader;
 
 public class trial {
 	private static Graph graph;
-	private static Random rand;
+	
 	private static Visualization vis;
 	private static Display d;
 
